@@ -7,7 +7,7 @@ We first soldered an inertial measurement unit (IMU) and microcontroller unit (M
 From this headset, we plan to build other systems, such as an inside-out 6DoF tracking solution using visual-inertial odometry, or a varifocal optical stack using eye tracking and motors or voice coils.
 
 <div align="middle">
-<img src="images/HMD_Enclosure_1.jpg" alt="HMD Enclosure for the HMD" style="width: 80%; height: auto;"> </div>
+<img src="https://github.com/uwrealitylabs/.github/tree/main/images/HMD_Enclosure_1.jpg" alt="HMD Enclosure for the HMD" style="width: 80%; height: auto;"> </div>
 
 ### Basic HMD Hardware
 
@@ -41,7 +41,7 @@ Our team has received custom PCBs and other various electrical components for th
 
 ### Drivers
 
-SteamVR is the only universal platform with accessible driver SDKs (from Valve's OpenVR). It is an easy choice for an open-source VR project. The drivers for Reality from Scratch can be found [here](https://github.com/kennynahh/reality-from-scratch/tree/main/drivers). We use them in conjunction with the FastIMU Arduino library.
+SteamVR is the only universal platform with accessible driver SDKs (from Valve's OpenVR). It is an easy choice for an open-source VR project. The drivers for Reality from Scratch can be found [here](https://github.com/uwrealitylabs/openvrdriver/tree/main). We use them in conjunction with the FastIMU Arduino library.
 
 ### Lenses
 
@@ -62,7 +62,7 @@ A lot of these simpler lenses can be purchased at a wide assortment of focal len
 
 ## Building your own Reality from Scratch
 
-For a comphrehensive guide on how to build your own Reality from Scratch - our open-source, DIY HMD, check out the guide [here](HMD-Guide.md), or join the UW Reality Labs team if you're a student at the University of Waterloo!
+For a comphrehensive guide on how to build your own Reality from Scratch - our open-source, DIY HMD, check out the guide [here](https://github.com/uwrealitylabs/realityfromscratch/blob/main/Guide.md), or join the UW Reality Labs team if you're a student at the University of Waterloo!
 
 <div align="middle">
 <img src="images/HadesVR_HMD_unfinished.jpg" alt="unfinished HMD module built on HadesVR PCB" style="width: 50%; height: auto;">
