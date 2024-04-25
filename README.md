@@ -1,8 +1,8 @@
 ## Overview
 
-Based off of open-source guides, we are building our very own, fully custom VR headset. We call it **Reality from Scratch**.
+We are building our very own, fully custom VR headset called **Reality from Scratch**.
 
-We first soldered an inertial measurement unit (IMU) and microcontroller unit (MCU) together, and got real-time motion vector data translated into SteamVR with drivers forked from the OpenVR SDK. Then, the VR Compositor output was routed to our VR displays, which comes with accompanying lenses and a custom 3D-printed housing. In addition to the HMD, we are building Vive Wand-style controllers, which we'll dive into deeper below.
+First, we soldered an inertial measurement unit (IMU) and microcontroller unit (MCU) together, and got real-time motion vector data translated into SteamVR with drivers forked from the OpenVR SDK. Then, the VR Compositor output was routed to our VR displays, which comes with accompanying lenses and a custom 3D-printed housing. In addition to the HMD, we are building Vive Wand-style controllers, which we'll dive into deeper below.
 
 From this headset, we plan to build other systems, such as an inside-out 6DoF tracking solution using visual-inertial odometry, or a varifocal optical stack using eye tracking and motors or voice coils.
 
