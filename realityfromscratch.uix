@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<gui_settings>
+	<plots />
+	<reports />
+	<mainwindow_windowstate value="AAAA/wAAAAD9AAAAAgAAAAAAAAFZAAACePwCAAAAAfsAAAAcAE8AcAB0AGkAYwBhAGwAIABEAGUAcwBpAGcAbgEAAACKAAACeAAAAHoA////AAAAAQAAAicAAAJ4/AIAAAAD+wAAABgAUwB5AHMAdABlAG0AIABTAGUAdAB1AHABAAAAigAAAXsAAAB6AP////sAAAAgAFMAbABpAGQAZQByACAASQBuAHQAZQByAGYAYQBjAGUBAAACCQAAAHsAAAB6AP////sAAAAkAE0AdQBsAHQAaQBjAG8AbgBmAGkAZwAgAEwAbwBvAGsAdQBwAQAAAogAAAB6AAAAegD///8AAAJ4AAACeAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAGgByAGkAYgBiAG8AbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=" />
+	<cutaway_mod value="0" />
+	<cutaway_val value="499" />
+	<delete_vig value="false" />
+	<show_exit value="false" />
+	<show_coo value="true" />
+	<show_mech value="true" />
+	<ray_color value="0" />
+	<surf_style value="0" />
+	<ray_style value="0" />
+	<v3d_x value="-5.4152626507143982" />
+	<v3d_y value="1.8816688785790019" />
+	<v3d_z value="-12.76991094128749" />
+	<v3d_zoom value="15.547869929401244" />
+	<v3d_r00 value="-0.0958616883" />
+	<v3d_r01 value="0.25636059" />
+	<v3d_r02 value="0.961814344" />
+	<v3d_r03 value="0" />
+	<v3d_r10 value="0.952123165" />
+	<v3d_r11 value="-0.258180231" />
+	<v3d_r12 value="0.163711131" />
+	<v3d_r13 value="0" />
+	<v3d_r20 value="0.290290624" />
+	<v3d_r21 value="0.931459963" />
+	<v3d_r22 value="-0.219337076" />
+	<v3d_r23 value="0" />
+	<v3d_r30 value="0" />
+	<v3d_r31 value="0" />
+	<v3d_r32 value="0" />
+	<v3d_r33 value="1" />
+	<v3d_plane value="0" />
+	<v3d_show_all_conf value="false" />
+	<v3d_conf_dy value="0" />
+</gui_settings>
